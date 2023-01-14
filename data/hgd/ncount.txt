@@ -1,0 +1,12 @@
+totoal samples:950
+class name:AC	quantity:[279, 218]
+class name:merchant	quantity:[1156, 596]
+class name:warship	quantity:[1265, 478]
+train samples:855
+class name:AC	quantity:[255, 198]
+class name:merchant	quantity:[1027, 531]
+class name:warship	quantity:[1106, 427]
+test samples:95
+class name:AC	quantity:[24, 20]
+class name:merchant	quantity:[129, 65]
+class name:warship	quantity:[159, 51]
